@@ -41,7 +41,7 @@ iPhoneBot/
 3. Run:
 ```bash
 npm install
-npm start
+node index.js
 ```
 
 ---
